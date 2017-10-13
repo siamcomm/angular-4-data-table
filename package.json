@@ -20,10 +20,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MIt9/angular-4-data-table.git"
+    "url": "git+https://github.com/siamcomm/angular-4-data-table.git"
   },
-  "author": "Dmitrii Bilukha <siniidrozd@gmail.com> (http://donsamogon.com)",
-  "license": "MIT",
+  "author": "SiamComm <ebuckley@siamcomm.com> (http://siamcomm.com)",
+  "license": "",
   "devDependencies": {},
   "dependencies": {
     "@angular/core": "^4.0.0",
@@ -35,7 +35,7 @@
   },
   "false": {},
   "bugs": {
-    "url": "https://github.com/MIt9/angular-4-data-table/issues"
+    "url": "https://github.com/siamcomm/angular-4-data-table/issues"
   },
-  "homepage": "https://github.com/MIt9/angular-4-data-table#readme"
+  "homepage": "https://github.com/siamcomm/angular-4-data-table#readme"
 }
