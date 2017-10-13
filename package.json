@@ -23,7 +23,7 @@
     "url": "git+https://github.com/siamcomm/angular-4-data-table.git"
   },
   "author": "SiamComm <ebuckley@siamcomm.com> (http://siamcomm.com)",
-  "license": "",
+  "license": "MIT",
   "devDependencies": {},
   "dependencies": {
     "@angular/core": "^4.0.0",
